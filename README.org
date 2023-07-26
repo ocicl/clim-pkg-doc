@@ -1,0 +1,10 @@
+* clim-pkg-doc
+
+package documentation with clim
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jschatzer/clim-pkg-doc.git   |
+| commit  | 2d7b759  |
+| systems | clim-pkg-doc |
+|---------+-------------------------------------------|
+
